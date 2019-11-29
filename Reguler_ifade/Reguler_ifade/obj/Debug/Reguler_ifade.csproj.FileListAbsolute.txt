@@ -1,0 +1,7 @@
+C:\Users\Mücahit\source\repos\Reguler_ifade\Reguler_ifade\bin\Debug\Reguler_ifade.exe.config
+C:\Users\Mücahit\source\repos\Reguler_ifade\Reguler_ifade\bin\Debug\Reguler_ifade.exe
+C:\Users\Mücahit\source\repos\Reguler_ifade\Reguler_ifade\bin\Debug\Reguler_ifade.pdb
+C:\Users\Mücahit\source\repos\Reguler_ifade\Reguler_ifade\obj\Debug\Reguler_ifade.csprojAssemblyReference.cache
+C:\Users\Mücahit\source\repos\Reguler_ifade\Reguler_ifade\obj\Debug\Reguler_ifade.csproj.CoreCompileInputs.cache
+C:\Users\Mücahit\source\repos\Reguler_ifade\Reguler_ifade\obj\Debug\Reguler_ifade.exe
+C:\Users\Mücahit\source\repos\Reguler_ifade\Reguler_ifade\obj\Debug\Reguler_ifade.pdb
